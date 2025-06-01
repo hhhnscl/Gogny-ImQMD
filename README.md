@@ -1,0 +1,1 @@
+The data for all figures for the work, "Effective finite-range Gogny-type interaction for quantum molecular dynamics like models". The code used in this work is available upon request to the corresponding author.
